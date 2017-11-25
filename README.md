@@ -706,7 +706,7 @@ adf.test(
   NUK$ddCO2[!is.na(NUK$ddCO2)]
 )
 
-# This also shows a stationary variable. WE CAN CONCLUDE THAT THERE IS A RELATIONSHIP!
+# This also shows a stationary variable. 
 # The p-value for ddTNP is approximately .05 and the p-value for ddCO2p which uses
 # an economic control.
 
